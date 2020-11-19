@@ -2,7 +2,7 @@
 
 Comandos:
 
-.start |
-.banall |
-.admin |
-.close 
+start |
+banall |
+admin |
+close 
